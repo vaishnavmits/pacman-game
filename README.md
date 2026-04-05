@@ -10,7 +10,7 @@ This project recreates the classic Pac-Man gameplay where the player navigates t
 🎨 Responsive UI with modern styling
 ⌨️ Keyboard controls (Arrow keys / WASD)
 🔁 Replay option after game ends
-🛠️ Tech Stack
+🛠️ Tech Stack.
 HTML5
 Structure of the game and UI screens (landing page & game canvas)
 CSS3
