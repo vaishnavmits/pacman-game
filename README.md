@@ -13,6 +13,7 @@ This project recreates the classic Pac-Man gameplay where the player navigates t
 🛠️ Tech Stack.
 HTML5
 Structure of the game and UI screens (landing page & game canvas)
+
 CSS3
 Styling, layout, animations, and responsive design
 JavaScript (Vanilla JS)
